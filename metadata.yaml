@@ -1,0 +1,31 @@
+_repo: The-Life-of-Horatio-Lord-Nelson_947
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Southey, Robert
+    birthdate: 1774
+    deathdate: 1843
+    gutenberg_agent_id: '488'
+    url: http://www.gutenberg.org/2009/agents/488
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Southey
+description: Lord Admiral Horatio Nelson (1758-1805) is one of the most popular figures
+  in English history. This biography, by a major English poet, has rarely been out
+  of print since its 1813 debut. It made it onto the British screen as the feature
+  film Nelson , in 1926. This biography is also well-known for influencing such authors
+  as Cooper, Melville, and Mahan.
+gutenberg_bookshelf: Napoleonic(Bookshelf)
+gutenberg_issued: '2006-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Admirals -- Great Britain -- Biography'
+- !lcc 'DA'
+- !lcsh 'Nelson, Horatio Nelson, Viscount, 1758-1805'
+- GITenberg
+title: The Life of Horatio, Lord Nelson
+url: http://www.gutenberg.org/ebooks/947
